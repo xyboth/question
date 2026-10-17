@@ -1,0 +1,1206 @@
+{
+    "version": 1,
+    "bank_name": "性癖调查",
+    "default_question_type": "multiple_choice",
+    "questions": [
+        {
+            "body": "在亲密过程中播放背景音乐（如 爵士、节奏布鲁斯 或轻音乐）",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "房间保持微弱灯光或烛光（非全黑也非全亮）",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "在除了卧室以外的家中其他地方（如客厅沙发、厨房、浴室）",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "在你过往的亲密幻想中，是否出现过除了我们俩之外的“第三人”？",
+            "question_type": "single_choice",
+            "options": [
+                "从未出现过，我的幻想里只有我们两个人",
+                "偶尔闪过类似念头，但很快就忽略掉了",
+                "经常出现，这是一个能让我感到兴奋的幻想元素",
+                "不仅有幻想，我甚至很渴望能够将它带入现实"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "在亲密过程中使用香水、精油或身体乳的香味",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "对方在耳边低语、轻吹气或说情话",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "在过程中看着镜子里的彼此",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "结束后长达 15–30 分钟的依偎聊天",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "洗澡时的前戏或鸳鸯浴",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "一起观看带有情色元素或性感调情的电影来预热",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "对方在日常生活中突然给你一个深情的突袭拥抱或亲吻",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "抚摸与接触时的力度稍微用力、带有一点抓握感",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "对方在过程中对你进行直白的语言鼓励或夸奖",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "在夏天开着足量空调、盖着厚被子紧紧贴在一起",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "对方用双臂紧紧环抱或适度压住你的身体",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试不穿内衣与对方一起出门散步或约会",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "在旅行时，尝试在户外露营帐篷或人少自然的隐蔽处进行",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "使用带有温度（温热/清凉）或特殊口味的润滑剂",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "在两人的特殊纪念日进行一次彻底的房间气氛布置",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "在车内（如私密车库或人少郊外）进行亲密接触",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "双方约定好某种隐秘的手势或暗号，随时表达“我现在想要”",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "一起学习并为对方进行全身的舒缓按摩",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "双方各自准备性感/别致的睡衣或内衣给对方看",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "在清晨用温柔或充满惊喜的方式唤醒对方",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试在半透明的窗帘旁或隐蔽的阳台边拥抱亲吻",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "亲密时被对方蒙上双眼（剥夺视觉）",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "使用羽毛、冰块等道具在皮肤上进行冷热或轻柔刺激",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "对方在过程中展现出强烈的占有欲或主导感",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "听到稍微直白或略带刺激性的情话",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "对方轻柔地捏住下巴、固定你的面部朝向",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "被对方轻咬嘴唇、肩膀或脖子并留下轻微印记",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "对方在过程中命令你“看着我”或“不许动”",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "享受被对方完全掌控节奏（上位或绝对主导）",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "在刚运动完微汗或略带原始气息的状态下进行",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "对方在事后像照顾小孩子一样抚摸你、为你准备温水或点心",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "享受“延迟满足”（故意在临界点暂停，反复拉扯）",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "在浴室的淋浴喷头下或充满泡沫的浴缸里进行",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "对方用双腿或身体重量完全压在你身上的感觉",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "亲密时对方的手穿过并梳理你的头发",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "肢体接触中伴随轻微的抓痕或咬痕（在舒适范围内）",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试基础的角色扮演（如职业设定、陌生人设定、校园设定）",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "使用轻柔的道具（如丝巾、软绳、领带）对双手进行轻度固定",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试轻度的打屁股来增加氛围刺激",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试非传统的家政家具（如厨房岛台、洗衣机、高脚凳）",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "使用基础的情趣玩具（如振动棒、跳蛋）作为辅助工具",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "在伴侣面前毫无顾忌地展示自慰并让对方观赏或指导",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试在半公开但安全的地方（如电影院后排、地下停车场车内）进行边缘互动",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "允许对方在你的身体上用口红或可洗马克笔做标记或画图案",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试带有赌注和惩罚性质的互动小游戏（输的人听从指令）",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "在异地或分居时，通过文字或语音进行线上预热互动",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "对方在言语中使用带有轻微惩罚或命令性质的语气",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "对方表现出平时罕见的野性、粗鲁或强硬的一面",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试各种非常规、高难度或需要较强肢体延展的姿势",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "被对方紧紧抓住头发或固定头部进行深度亲吻",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "使用具有强烈视觉冲击力的内衣（如网袜、皮革、蕾丝束腰）",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "对方在过程中表现出适度的嫉妒心和独占欲",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试在完全无光的绝对黑暗环境中进行互动",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "享受完全交出主导权，由对方决定什么时候结束",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "对方在日常工作中突然发来极具暗示性的私密照片或文字",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "在亲密过程中发出毫无保留、真实的喘息与呼喊",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "对方使用具有轻微敲击感的道具（如羽毛拍、皮革拍）",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "体验被对方“强行抱住”或按倒在床上的力量感",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "在长时间的亲密互动后，连续进行多次温存",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "对方在耳边细数你的身体细节或表达对你的痴迷",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "享受被对方从背后紧紧贴住并进行深层抚摸",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试使用低温情趣蜡烛，将温热的蜡滴落在皮肤上",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试给对方佩戴项圈或使用牵引绳来进行角色定位",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试在对方假装熟睡时，进行突如其来的温柔贴近与接触",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "拍摄私密且健康的美好照片或短视频（承诺仅限双人私密留存）",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试在旅行的高铁包厢、卧铺或酒店大落地窗前进行隐秘尝试",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试使用带有吸附或轻微夹抱感的小道具（如乳头夹/吸附器）",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试在寒冷的冬天，大衣内只穿少量衣物与对方出门寻刺激",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试使用肛塞等后庭领域的初级探索工具",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "允许对方在亲密过程中对你提出三个必须执行的“绝对命令”",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试在伴侣面前毫无保留地哭泣或展现极致发骚的一面",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "在亲密中完全扮演“支配者（主导角色）”的角色",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "在亲密中完全扮演“服从者（服从角色）”的角色",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "体验被对方剥夺所有感官（蒙眼+耳塞+双手固定）的极端信任感",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "对方在过程中对你进行极其深情且霸道的心理征服",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "对方在结束前故意停下，需要你主动恳求才继续",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "体验稍微明显的痛感（如用力拍打、较重抓咬）转化为快感",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "对方在过程中展现出极具仪式感的臣服姿态（如亲吻脚背或双手）",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "享受被对方用束缚带完全固定、无法自主移动的状态",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "在亲密中尝试极具反差感的人物设定（如父女与母子）",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "享受在极度紧张（如随时可能有人经过）的环境下产生的强烈快感",
+            "question_type": "single_choice",
+            "options": [
+                "非常讨厌",
+                "不喜欢",
+                "无所谓/中立",
+                "喜欢",
+                "非常喜欢"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试使用专业的软绳束缚（如 艺术绑绳）",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试在长时间内（如连续数小时）被禁止达到高潮（控射/控高）",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试“完全听从指令”的一天（当天所有的决定由对方做出）",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试口交中的深喉或吞咽等更亲密的体液交流",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试使用后庭玩具辅助并结合常规姿势进行双重刺激",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试在极其空旷的自然环境（如无人山顶、夜晚私家海滩）进行",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试使用具有金属质感或重型约束感的情趣锁具/手铐",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试在角色扮演中加入“言语贬低/羞辱”",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试在身体私密部位纹身或贴上私密词汇（如骚逼、贱货、主人母狗）？",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试在对方繁忙工作时，进行隐蔽且不被他人发现的肢体调情",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试使用高压花洒或水流进行局部深层刺激",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试在身上留下能维持数天的明显痕迹（如深色吻痕或轻微划痕）",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "尝试完全由对方操控无线遥控玩具，你在日常场合（如逛街/吃饭）配合",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "可以尝试",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "签署一份属于两个人的“亲密游戏契约书”（明确规则与安全词）",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        },
+        {
+            "body": "一起讨论并制定一个属于你们俩的“终极疯狂爱爱愿望清单”",
+            "question_type": "single_choice",
+            "options": [
+                "坚决不接受",
+                "不太愿意",
+                "视情况而定",
+                "比较愿意",
+                "非常期待"
+            ],
+            "enabled": 1
+        }
+    ]
+}
